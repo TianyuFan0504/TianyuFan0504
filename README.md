@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tianyufan0504&label=Profile%20views&color=0e75b6&style=flat" alt="tianyufan0504" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tianyufan0504" alt="tianyufan0504" /></a> </p>
+
 - 🔭 I’m currently working on **Self-Supervised Learning**
 
 - 📫 How to reach me: **fantianyu@zju.edu.cn**(currently use)  or  **tianyufan0504@gmail.com**
