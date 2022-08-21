@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align="center"> <img src="https://metrics.lecoq.io/TianyuFan0504?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!--
 **TianyuFan0504/TianyuFan0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
