@@ -6,5 +6,3 @@
 
 - 📫 How to reach me: **tianyufan0504@gmail.com** (frequently use)  or  **fantianyu@zju.edu.cn**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianyufan0504&show_icons=true&locale=en" alt="tianyufan0504" /></p>
