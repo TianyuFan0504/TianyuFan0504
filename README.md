@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on **Graph + LLM**
 
-- 📫 How to reach me: **tianyufan0504@gmail.com** (frequently use)  or  **fantianyu@zju.edu.cn**
+- 📫 How to reach me: **tianyufan0504@gmail.com** (frequently use)  or  **tianyufan@connect.hku.hk**
 
